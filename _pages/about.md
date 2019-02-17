@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 My name is Igor Kharin. I am a physicist, mathematician and full-stack software engineer. I am team leader at IQOM R&D Group.
- The main areas of our activity are the following:
+The main areas of our activity are the following:
  -  the multiagent platform for building of real-time distributed applications with support of the communities.
 of people and software agents including Internet of Things, finance, governance, identity management,.
 decentralisation and asset-tracking;.
