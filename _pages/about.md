@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,9 +16,7 @@ decentralisation and asset-tracking;.
  - the concept of a heterogeneous multi-blockchain eBlockGRIDs;
  - the formal model of distributed open multiagent systems where  the agents communities can use.
 our multi-blockchain technology.
-My other interests focuses in the area of the mathematical modeling (physical systems, trading, computer vision, sport etc.),.
-quantum computing, the calculation and data processing methods including statistical analysis of data, machine learning,.
-econometric applications etc.
+My other interests focuses in the area of the mathematical modeling (physical systems, trading, computer vision, sport etc.), quantum computing, the calculation and data processing methods including statistical analysis of data, machine learning, econometric applications etc.
 
 
 

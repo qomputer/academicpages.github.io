@@ -11,7 +11,7 @@ title                    : "IQOM R&D Group"
 title_separator          : "-"
 name                     : &name "Igor Kharin"
 description              : &description "personal description"
-url                      : https://iqom.egrids.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://iqom.egrids.org # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -82,13 +82,7 @@ analytics:
 author:
   name             : "Igor Kharin"
   avatar           : "profile.png"
-  bio              : "State Scientific Institution 'Institute for Single Crystals', Physicist/Mathematician/Computer Scientist,IQOM R&D Group Leader.
-
-         - National Science Center 'Kharkov Institute of Physics & Technology', Physicist/Mathematician/Computer Scientist (1990-2010);
-
-         - Kharkov National University, Postgraduate Student&Researcher (1987-1990);
-
-         - Kharkov National University, Graduate Student (1981-1987)."
+  bio              : "State Scientific Institution 'Institute for Single Crystals', Physicist/Mathematician/Computer Scientist and IQOM R&D Group Leader. National Science Center 'Kharkov Institute of Physics & Technology', Physicist/Mathematician/Computer Scientist (1990-2010); Kharkov National University, Postgraduate Student&Researcher (1987-1990); Kharkov National University, Graduate Student (1981-1987)."
   location         : #"UA"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -106,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : ""
   orcid            : 
   pinterest        :
   soundcloud       :
